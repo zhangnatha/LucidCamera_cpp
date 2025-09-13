@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+build
+build-*
+3rdparty
+build/*
+cmake-*
+.idea
